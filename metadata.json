@@ -1,0 +1,6 @@
+{
+  "name": "CodeX1513 iOS",
+  "description": "CodeX 1513 iOS - Comprehensive iOS 18 Simulator and Swift IDE Studio featuring Dynamic Island, interactive SwiftUI app builder, Control Center, App Store, Terminal CLI, and native apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
